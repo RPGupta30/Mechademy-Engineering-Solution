@@ -1,0 +1,16 @@
+2.1 GT Compressor decay state coefficient.:
+
+    a. LinearRegression:
+        Mean:  0.00585131617270421
+        Standard deviation:  9.246274656831453e-05
+   
+    b. DecisionTreeRegressor:
+        Mean:  0.0018139836604383216
+        Standard deviation:  0.00027001430352341897
+
+    c. RandomForestRegressor:
+        Mean:  0.0011211254976645102
+        Standard deviation:  0.00019142017958711827
+       
+
+        
